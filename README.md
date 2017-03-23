@@ -1,1 +1,3 @@
-# ggtree_arslan
+# Phylogenetic tree construction 
+
+This is a tutorial on jupyter notebook and ggtree today. ggtree is a package, which can be used to visualize phylogenetic trees and annotate them in R. I'm not an expert on it but I find it to be way more customizable than any other software. It would be great if you could have the latest version of R installed on your systems, as well as the R packages ggplot2, ape, and ggtree. Additionally, it would nice to work through some of the examples in Jupyter notebook, which is a great way to keep track of all of your analysis. This automatically comes with conda, so if you could install that as well, it would be great. Otherwise, you can simply follow the instructions on Rstudio. 
